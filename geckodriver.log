@@ -1,0 +1,264 @@
+1592586697825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EH5BE6~1.PAU\\AppData\\Local\\Temp\\rust_mozprofileWMbKA5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592586719895	Marionette	INFO	Listening on port 51067
+1592586720463	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+[Parent 5316, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+JavaScript error: resource:///actors/LightweightThemeChild.jsm, line 28: TypeError: this.docShell is null
+1592618296406	Marionette	INFO	Stopped listening on port 51067
+618287753	Marionette	INFO	Stopped listening on port 51614
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592618127017	Marionette	INFO	Listening on port 51685
+1592618127093	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13276, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1592618286903	Marionette	INFO	Stopped listening on port 51685
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592618311243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EH5BE6~1.PAU\\AppData\\Local\\Temp\\rust_mozprofileU2PRQb"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592618319530	Marionette	INFO	Listening on port 51764
+1592618319687	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.chatra.io/jscss/96a6546b6125f59fa83a2a003ef0003ab820431e.js?meteor_js_resource=true, line 131: TypeError: Chtr.url is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.chatra.io/jscss/96a6546b6125f59fa83a2a003ef0003ab820431e.js?meteor_js_resource=true, line 131: TypeError: Chtr.url is not a function
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nostarch.com"
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://nostarch.com"
+[Parent 2080, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1592620240933	Marionette	INFO	Stopped listening on port 51764
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+m, line 66: Error: Can't find profile directory.
+1592619957111	Marionette	INFO	Listening on port 51933
+1592619957503	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA000D,name=PBackgroundIDBDatabase::Msg_Invalidate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1592620237930	Marionette	INFO	Stopped listening on port 51933
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Message] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA000D,name=PBackgroundIDBDatabase::Msg_Invalidate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+1592620237929	Marionette	INFO	Stopped listening on port 52008
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+s/96a6546b6125f59fa83a2a003ef0003ab820431e.js?meteor_js_resource=true, line 131: TypeError: Chtr.url is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.chatra.io/jscss/96a6546b6125f59fa83a2a003ef0003ab820431e.js?meteor_js_resource=true, line 131: TypeError: Chtr.url is not a function
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA000D,name=PBackgroundIDBDatabase::Msg_Invalidate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xA000E,name=PBackgroundIDBDatabase::Msg_CloseAfterInvalidationComplete) Channel error: cannot send/recv
+
+[Parent 1968, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1592620237931	Marionette	INFO	Stopped listening on port 52062
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592620250422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EH5BE6~1.PAU\\AppData\\Local\\Temp\\rust_mozprofilek0QeDH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592620259752	Marionette	INFO	Listening on port 52136
+1592620259977	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592620355914	Marionette	INFO	Stopped listening on port 52136
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592620275962	Marionette	INFO	Listening on port 52186
+1592620276153	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.chatra.io/jscss/96a6546b6125f59fa83a2a003ef0003ab820431e.js?meteor_js_resource=true, line 131: TypeError: Chtr.url is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.chatra.io/jscss/96a6546b6125f59fa83a2a003ef0003ab820431e.js?meteor_js_resource=true, line 131: TypeError: Chtr.url is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.chatra.io/jscss/96a6546b6125f59fa83a2a003ef0003ab820431e.js?meteor_js_resource=true, line 131: TypeError: Chtr.url is not a function
+1592620354261	Marionette	INFO	Stopped listening on port 52186
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel erJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592620358864	Marionette	INFO	Listening on port 52260
+1592620359077	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592661445120	Marionette	INFO	Stopped listening on port 52260
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\EH5BE6~1.PAU\\AppData\\Local\\Temp\\rust_mozprofileLtdbR6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592620377144	Marionette	INFO	Listening on port 52317
+1592620377455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.chatra.io/jscss/96a6546b6125f59fa83a2a003ef0003ab820431e.js?meteor_js_resource=true, line 131: TypeError: Chtr.url is not a function
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.chatra.io/jscss/96a6546b6125f59fa83a2a003ef0003ab820431e.js?meteor_js_resource=true, line 131: TypeError: Chtr.url is not a function
+1592661468506	Marionette	INFO	Stopped listening on port 52317
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592661619259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EH5BE6~1.PAU\\AppData\\Local\\Temp\\rust_mozprofilePJqT9S"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592661625637	Marionette	INFO	Listening on port 52639
+1592661626102	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592661938036	Marionette	INFO	Stopped listening on port 52639
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592661641857	Marionette	INFO	Listening on port 52690
+1592661641936	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.chatra.io/jscss/96a6546b6125f59fa83a2a003ef0003ab820431e.js?meteor_js_resource=true, line 131: TypeError: Chtr.url is not a function
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1592661938042	Marionette	INFO	Stopped listening on port 52690
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592661943964	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EH5BE6~1.PAU\\AppData\\Local\\Temp\\rust_mozprofileezXk1b"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592661950141	Marionette	INFO	Listening on port 52770
+1592661950209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592662009280	Marionette	INFO	Stopped listening on port 52770
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592661965734	Marionette	INFO	Listening on port 52819
+1592661965882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.chatra.io/jscss/96a6546b6125f59fa83a2a003ef0003ab820431e.js?meteor_js_resource=true, line 131: TypeError: Chtr.url is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.chatra.io/jscss/96a6546b6125f59fa83a2a003ef0003ab820431e.js?meteor_js_resource=true, line 131: TypeError: Chtr.url is not a function
+1592662007209	Marionette	INFO	Stopped listening on port 52819
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592662036315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EH5BE6~1.PAU\\AppData\\Local\\Temp\\rust_mozprofilew9aX5B"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592662041341	Marionette	INFO	Listening on port 52881
+1592662041554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592662209977	Marionette	INFO	Stopped listening on port 52881
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592662057808	Marionette	INFO	Listening on port 52931
+1592662057966	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.chatra.io/jscss/96a6546b6125f59fa83a2a003ef0003ab820431e.js?meteor_js_resource=true, line 131: TypeError: Chtr.url is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.chatra.io/jscss/96a6546b6125f59fa83a2a003ef0003ab820431e.js?meteor_js_resource=true, line 131: TypeError: Chtr.url is not a function
+1592662210010	Marionette	INFO	Stopped listening on port 52931
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1592662234268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\EH5BE6~1.PAU\\AppData\\Local\\Temp\\rust_mozprofileaqxgID"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592662240981	Marionette	INFO	Listening on port 53036
+1592662241178	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592663174773	Marionette	INFO	Stopped listening on port 53036
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592662257985	Marionette	INFO	Listening on port 53086
+1592662258354	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.chatra.io/jscss/96a6546b6125f59fa83a2a003ef0003ab820431e.js?meteor_js_resource=true, line 131: TypeError: Chtr.url is not a function
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://static.chatra.io/jscss/96a6546b6125f59fa83a2a003ef0003ab820431e.js?meteor_js_resource=true, line 131: TypeError: Chtr.url is not a function
+1592663173535	Marionette	INFO	Stopped listening on port 53086
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1592662693894	Marionette	INFO	Listening on port 53173
+1592662694106	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8356, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+[Parent 8356, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1592663172167	Marionette	INFO	Stopped listening on port 53173
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
